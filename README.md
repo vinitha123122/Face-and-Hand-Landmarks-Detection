@@ -1,3 +1,4 @@
+ HEAD
 Face and Hand Landmarks Detection
 
 This project uses MediaPipe and OpenCV to detect face and hand landmarks in real time. The landmarks can be used for various computer vision applications, such as gesture control, sign language recognition, and drowsiness detection.
@@ -76,3 +77,6 @@ Notes->
 .Ensure your webcam is connected and working.
 
 .For better performance, ensure proper lighting.
+
+# Face-and-Hand-Landmarks-Detection
+# a17c582cacb60cea62074f1b3d99437c343b6e71
